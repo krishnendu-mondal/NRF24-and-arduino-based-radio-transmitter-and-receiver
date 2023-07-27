@@ -3,10 +3,33 @@
 
 ## Project description
 It's a complete product development, of a cost effective radio transmitter and receiver utilizing Arduino and NRF24 tranceiver module. I started with drawing the schematic, then I did component selection, and after that PCB designing and testing. When the PCB stood out in the process of testing, component assembly, and soldering were done. The enclosure is made up of PVC sheet. The finished product comes out good, also the guaranteed connection range between two module is 600 metres(measured).
-I faced design challanges like routing, component placement & positioning, But overall product development project experiance was awesome.
 
 ## Schematics
-<img src="image/Schematic_transitter.png" height=400 width=400>
+### Transmitter
+<img src="image/Schematic_transmitter.png" height=500 width=800> 
+
+### Receiver
+<img src="image/Schematic_receiver.png" height=500 width=800>
+
+## PCB Routing 
+I faced design challanges when routing, component placement & positioning, But overall product development project experiance was awesome.
+
+### Transmitter
+<img src="image/transmitter routing.jpg" height=500 width=800>
+
+### Receiver
+<img src="image/receiver routing.jpg" height=500 width=800>
+
+## 3D view of PCB
+### Transmitter
+<img src="image/transmitter front face 3d.jpg" height=500 width=800>
+<img src="image/transmitter back face 3d.jpg" height=500 width=800>
+
+### Receiver
+<img src="image/receiver front face 3d.jpg" height=500 width=800>
+<img src="image/receiver back face 3d.jpg" height=500 width=800>
+
+## 
 
 ## Components of Transmitter 
     1. ATmega328pu microcontroller x1
