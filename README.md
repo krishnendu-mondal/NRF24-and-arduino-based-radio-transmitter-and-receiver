@@ -29,7 +29,21 @@ I faced design challanges when routing, component placement & positioning, But o
 <img src="image/receiver front face 3d.jpg" height=500 width=800>
 <img src="image/receiver back face 3d.jpg" height=500 width=800>
 
-## 
+# Final product
+## Transmitter
+### Inside view
+<img src="image/transmitter inside.jpg" height=500 width=700>
+
+### Outer look
+<img src="image/transmitter front face 2.jpg" height=500 width=500>
+
+## Receiver
+### Top view
+<img src="image/receiver front face.jpg" height=350 width=500>
+
+### Bottom view
+<img src="image/receiver back face.jpg" height=350 width=500>
+
 
 ## Components of Transmitter 
     1. ATmega328pu microcontroller x1
