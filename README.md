@@ -44,6 +44,10 @@ I faced design challanges when routing, component placement & positioning, But o
 ### Bottom view
 <img src="image/receiver back face.jpg" height=350 width=500>
 
+## ARDUINO CODE
+Transmitter code <a href="nRF24L01_seven_channel_transmitter_code.ino">here</a>
+
+Receiver code <a href="nRF24L01_seven_channel_receiver_code.ino">here</a>
 
 ## Components of Transmitter 
     1. ATmega328pu microcontroller x1
