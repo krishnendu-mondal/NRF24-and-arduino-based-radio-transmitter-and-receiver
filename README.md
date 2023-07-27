@@ -1,5 +1,5 @@
 # nRF24L01 & Arduino based radio transmitter and receiver 
-<img src="image/transmitter front face.jpg" height=700 width=500><img src="image/transmitter front face.jpg" height=700 width=500>
+<img src="image/transmitter front face.jpg" height=550 width=450><img src="image/transmitter front face.jpg" height=550 width=450>
 ## Project description
 It's a complete product development, of a cost effective radio transmitter and receiver utilizing Arduino and NRF24 tranceiver module. I started with drawing the schematic, then I did component selection, and after that PCB designing and testing. When the PCB stood out in the process of testing, component assembly, and soldering were done. The enclosure is made up of PVC sheet. The finished product comes out good, also the guaranteed connection range between two module is 600 metres(measured). 
 I faced design challanges like routing, component placement & positioning, But overall product development project experiance was awesome.
